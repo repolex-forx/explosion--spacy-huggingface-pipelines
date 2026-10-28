@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "spacy-huggingface-pipelines",
+  "versions": [
+    {
+      "commit": "c7bb7a74d505d14374bd5bd97301e5836ec5e258",
+      "parsed_at": "2026-10-28T11:39:51.624910+00:00",
+      "filetree": "filetree/c7bb7a74d505d14374bd5bd97301e5836ec5e258.nq.gz",
+      "blobs": [
+        "blob/03b92fb4adc3b193f7e49b17c3fcd909da5ce229.nq.gz",
+        "blob/0d4bf58a93a8a6f82dc7645c2abd48ea6505834d.nq.gz",
+        "blob/4d3bb6749c0df63f084e0f266068b01ee7fc2500.nq.gz",
+        "blob/4e9fd251d3f258bfc9e35301044a860bcbab4bbd.nq.gz",
+        "blob/270041b68dffacdb60cf6d613bd8da7e70adf94f.nq.gz",
+        "blob/916418f1191710f100a14f4ea8f25d9722932a66.nq.gz",
+        "blob/7b12d99eb1a2e0681e1bd992b2cdbc1017776798.nq.gz",
+        "blob/138d8171888dd22c44c807bbddf90c28c9c13213.nq.gz",
+        "blob/61924727f712f1034a858ffbc20341b7cd04f19e.nq.gz",
+        "blob/3d4fded10fddcb5590f4e2a2320bcfa1726fa1ac.nq.gz",
+        "blob/74f0f6c263846982ed5b8dae3612f5daf9f7d207.nq.gz",
+        "blob/ebafc94f62e75d27bff066a20b825af430d61a7f.nq.gz",
+        "blob/242d0794e5bfef72c037ddb7b5fee50a2aa3af26.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/bb393f8b74d6e80b9991b1ef38d0aa9f1b2f7051.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
