@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-huggingface-pipelines",
+  "versions": [
+    {
+      "commit": "c7bb7a74d505d14374bd5bd97301e5836ec5e258",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:41:40.189162+00:00"
+    }
+  ]
+}
