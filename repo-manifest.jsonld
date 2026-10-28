@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-huggingface-pipelines/commit/c7bb7a74d505d14374bd5bd97301e5836ec5e258",
       "git:hexsha": "c7bb7a74d505d14374bd5bd97301e5836ec5e258",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:41:40.188745+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-huggingface-pipelines/commit/1d8dd026fa1e7d7fa76cf18dfff11deade25e02d",
